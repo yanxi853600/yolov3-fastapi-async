@@ -1,0 +1,7 @@
+classes= 2
+train  = atmc-ims/smt/dataset/rectangle/R0603/20211130/train.txt
+valid  = atmc-ims/smt/dataset/rectangle/R0603/20211130/val.txt
+test   = atmc-ims/smt/dataset/rectangle/R0603/20211130/test.txt
+names  = config/SMT.names
+backup = C:\Users\IMS\Desktop\Version\SMT_AOI\PyTorch-YOLOv3-master\PyTorch-YOLOv3-master\PyTorch-YOLOv3-master/smt-aoi/Config_Data/backup/
+
